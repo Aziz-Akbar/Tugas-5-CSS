@@ -1,0 +1,29 @@
+.div_menu {
+  background-color: black;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.div_menu .menu a:hover{
+  background-color: white;
+  color: orange;
+}
+
+.div_menu .menu {
+  color: white;
+  text-decoration: none;
+}
+
+.slider_div {
+text-align: center;
+}
+p {
+  text-align: justify;
+}
+
+footer {
+  font-size: 13px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
